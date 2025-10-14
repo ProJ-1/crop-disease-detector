@@ -1,5 +1,4 @@
 // App.tsx
-import React from 'react';
 import Home from './pages/Home';
 import { AnalysisProvider } from './contexts/AnalysisContext';
 import './styles/globals.css';
