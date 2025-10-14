@@ -1,0 +1,44 @@
+# Node dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# TypeScript build info
+*.tsbuildinfo
+
+# Mac & Linux system files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+coverage/
+
+# Shadcn generated files cache
+components.json
+
+# Optional: lockfiles (if you want reproducible builds, keep one!)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
