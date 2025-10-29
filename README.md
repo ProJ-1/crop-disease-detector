@@ -1,4 +1,4 @@
-Here’s a polished, ready-to-use README.md template for your Crop Disease Detector project:
+
 
 # 🌱 Crop Disease Detector
 
@@ -10,7 +10,6 @@ Detect crop diseases instantly using AI and a modern web stack.
 - **Frontend:** React, TypeScript, TailwindCSS  
 - **Backend:** FastAPI  
 - **AI Model:** Hugging Face ViT (Vision Transformer)  
-- **Deployment / Tools:** Docker, GitHub Actions (optional)  
 
 ---
 
